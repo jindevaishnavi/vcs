@@ -1,0 +1,39 @@
+Version Control Software VCS is also referred as SCM (Source Code Management) 
+tools or RCS (Revision Control System).
+
+Version control is a way to keep a track of the changes in the code so that 
+if something goes wrong, we can make comparisons in different code versions 
+and revert to any previous version that we want.
+It is very much required where multiple developers are continuously working 
+on changing the source code.
+
+GIT 
+
+Git is one of the best version control tools that is available in the present market.
+
+Features
+
+Provides strong support for non-linear development.
+Distributed repository model.
+Compatible with existing systems and protocols like HTTP, FTP, ssh.
+Capable of efficiently handling small to large sized projects.
+Cryptographic authentication of history.
+Pluggable merge strategies.
+Toolkit-based design.
+Periodic explicit object packing.
+Garbage accumulates until collected.
+Pros
+
+Super-fast and efficient performance.
+Cross-platform
+Code changes can be very easily and clearly tracked.
+Easily maintainable and robust.
+Offers an amazing command line utility known as git bash.
+Also offers GIT GUI where you can very quickly re-scan, state change, sign off, commit & push the code quickly with just a few clicks.
+Cons
+
+Complex and bigger history log become difficult to understand.
+Does not support keyword expansion and timestamp preservation.
+Open Source: Yes
+
+Cost: Free
